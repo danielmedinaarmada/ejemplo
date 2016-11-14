@@ -1,1 +1,5 @@
 http://librosweb.es/libro/css/capitulo_2/selectores_basicos.html
+
+
+http://librosweb.es/libro/css/capitulo_2/selectores_avanzados.html
+http://librosweb.es/libro/css/capitulo_15/ejercicio_2.html

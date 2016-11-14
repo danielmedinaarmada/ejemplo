@@ -1,4 +1,84 @@
-p {
-  color:red;
-  font-family: Verdana;
+h1 {
+	color:teal;
 }
+
+h2 {
+	color:blue;
+}
+
+p strong {
+	color:red;
+}
+
+p #especial{
+	color: purple;
+}
+
+p a {
+	color:red;
+	text-decoration: underline;
+}
+
+a em {
+	color:blue;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	border: 1px solid black;	
+}
+
+th.especial {
+	color:orange;
+}
+
+td {
+	border: 1px solid black;		
+}
+
+td[scope="row"]{
+	color:red;
+}
+
+tbody{
+	color:green;
+}
+
+tbody strong{
+	color:orange;
+}
+
+tbody tr th[class="especial"]{
+	color:orange;
+}
+
+
+tbody tr th[scope="row"]{
+	color:red;
+}
+
+tfoot {
+	color:red;
+}
+
+caption {
+	color:blue;
+
+}
+
+.destacado {
+	color:orange;
+}
+
+#adicional a{
+	color:green;
+}
+
+#adicional p {
+	color:olive;
+}
+
